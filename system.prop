@@ -23,9 +23,9 @@ ro.ril.ecc.HTC-WWE=999
 ro.ril.ecc.HTC-ELL=92,93,94
 ro.ril.enable.a52.HTC-ITA=1
 ro.ril.enable.a53.HTC-ITA=1
-ro.ril.enable.a52=0
-ro.ril.enable.a53=1
-ro.ril.disable.fd.plmn.prefix=23402,23410,23411
+ro.ril.enable.a52=1
+ro.ril.enable.a53=0
+ro.ril.disable.fd.plmn.prefix=
 ro.ril.enable.sdr=1
 ro.ril.enable.amr.wideband=0
 
